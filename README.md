@@ -169,22 +169,16 @@ python3 main.py
 
 ---
 
-## ⚠️ License / Usage Terms
+## ⚠️ License
 
-This project is open-source under a **custom license** by [Yash](https://github.com/LearningBotsOfficial).
+This project is protected under a custom license by LearningBotsOfficial.
 
-✅ You Can:
-- Use this code for personal or educational purposes  
-- Host your own version **with proper credits**  
-- Modify or improve the code (while keeping credit intact)
+You may use and modify this project for personal use only.
+Removing credits, selling copies, or redistributing modified versions without permission is prohibited.
 
-🚫 You Cannot:
-- Remove author credits or change project name  
-- Sell, rent, or resell this code or any modified version  
-- Claim ownership or re-upload it without permission  
-
-If you want to use this project commercially,  
-please contact the author at [LearningBotsOfficial](https://t.me/LearningBotsOfficial).
+Proper credit to:
+LearningBotsOfficial/NomadeHelpBot
+is required for any public use.
 
 ---
 
